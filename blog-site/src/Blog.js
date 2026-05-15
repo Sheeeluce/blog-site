@@ -15,7 +15,7 @@ const blog = {
             id: 2,
             title: "Did my first project on a Photography site.",
             date: "Jan 15, 2026",
-            preview: <a href="https://sheeeluce.github.io/Photography-Website/">Photography Website</a>   
+            preview: "https://sheeeluce.github.io/Photography-Website/",  
         },
 
         {
