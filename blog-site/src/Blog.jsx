@@ -1,6 +1,6 @@
 const blog = {
     name: "Lucy's Blog.",
-    image: "",
+    image: "https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?cs=srgb&dl=pexels-pixabay-262508.jpg&fm=jpg",
     about: "A blog about my coding journey.",
 
     posts: [
@@ -15,7 +15,7 @@ const blog = {
             id: 2,
             title: "Did my first project on a Photography site.",
             date: "Jan 15, 2026",
-            preview: "https://sheeeluce.github.io/Photography-Website/"  
+            preview: <a href="https://sheeeluce.github.io/Photography-Website/">Photography Website</a>   
         },
 
         {
